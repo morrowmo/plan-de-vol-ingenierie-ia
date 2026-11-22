@@ -1,0 +1,16 @@
+[
+  {"name": "Espresso", "price": 2.20, "description": "A short, strong shot of coffee."},
+  {"name": "Cappuccino", "price": 3.50, "description": "Espresso with steamed milk and a thick layer of foam."},
+  {"name": "Iced Latte", "price": 4.00, "description": "Cold coffee with milk, served over ice. Perfect for summer."},
+  {"name": "Hot Chocolate", "price": 3.80, "description": "Rich melted chocolate with warm milk and whipped cream."},
+  {"name": "Chai Latte", "price": 3.90, "description": "Spiced black tea with cinnamon, ginger and warm frothy milk."},
+  {"name": "Peppermint Tea", "price": 2.80, "description": "Caffeine-free herbal tea made with fresh mint leaves."},
+  {"name": "Fresh Orange Juice", "price": 3.20, "description": "Oranges squeezed to order. Cold and full of vitamin C."},
+  {"name": "Croissant", "price": 1.90, "description": "Buttery, flaky French pastry baked every morning."},
+  {"name": "Vegan Banana Bread", "price": 3.00, "description": "Moist banana cake made without eggs, milk or butter."},
+  {"name": "Comet Cheesecake", "price": 4.50, "description": "Creamy baked cheesecake with a blueberry topping."},
+  {"name": "Tomato Soup", "price": 5.50, "description": "Warm homemade soup with basil, served with bread. Ideal on a rainy day."},
+  {"name": "Avocado Toast", "price": 6.90, "description": "Sourdough bread topped with smashed avocado, lemon and chili flakes."},
+  {"name": "Gluten-Free Brownie", "price": 3.20, "description": "Dense chocolate brownie made with almond flour, no wheat."},
+  {"name": "Kids' Milkshake", "price": 3.50, "description": "A small vanilla or strawberry milkshake for children."}
+]
